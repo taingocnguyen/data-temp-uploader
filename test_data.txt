@@ -1,0 +1,79 @@
+Purpose
+This guideline provides instructions on how to contact the IT Helpdesk team for support.
+Scope
+This guideline is applied globally at TEST-Company.
+Guideline of contacting IT Helpdesk Team
+Whenever you need support from the IT team, you can use the following methods to send your requests to the IT Helpdesk Team. Any channel not listed below can be missed and ignored.
+Note: Please use the methods in the order that they are listed. That means you should only use the next method when you cannot use the previous one.
+IT Helpdesk System
+IT Helpdesk System is a web-based system. The system will keep track of your request from the time it is submitted until it is resolved.
+You are highly recommended to use the system for all your IT requests as we will monitor the IT support service via this system. There always have IT staff monitoring the system to make sure that your requests will be resolved at the soonest.
+You can access the helpdesk system at https://helpdesk.test-company from inside and outside of our Network with a VPN connection. 
+Just login to the system with your computer account and submit your request.
+Email
+In case you cannot reach the IT Helpdesk System for some reason, please send your request to the email address “it@test-company.com” (no quotes)
+IT staff in this group will receive your requests and feedback to you as soon as they can.
+Please do not send your requests to individual IT staff’s mailbox as your requests may be missed.
+Phone & Direct Contact
+You can also contact us via IT hotlines or directly in the IT room.
+Hotlines
+For urgent cases, you can call the following IT hotline for support: 0708 3456 88
+Submit and Follow-up a request
+Login to IT Helpdesk System by access https://helpdesk.test-company.com/
+You will see the login panel and login with the domain account (which is used for computer, email login)
+
+
+Click to Create a ticket to submit a request or incident, please note that the following fields are important to IT staff to help you better:
+Urgency: priority of your request, please specify exactly the urgency of your situation
+Type: Specify the correct type of ticket, request or incident report
+Category: Type of your problem, this is important for us to diagnostic
+Location: Corporate Services, CoE, APAC DC, GSS DC, Healthcare DC, TEST Solutions, Kobiton, Grove, Visily, Da Nang, Viettel IDC.
+Title: Briefly describe your problem
+The body: describe the problem in as much detail as possible. IT staff will need this information for trouble-shooting, the more detail info will help to resolve your problem easier and faster
+Attachment: You may attach the problem screen-shot with 2MB max
+
+To review your submitted ticket status, please click “Tickets” on top-left menu it will list all opening tickets you’ve submitted including related information
+
+After you submit the ticket, an IT Staff will be assigned to handle your request until it is resolved. Please see the image below for complete information of your ticket after being assigned to IT Staff.
+Note: IT Manager may reject your ticket if it is not valid and will reply by email to you to let you know the reason.
+During the trouble-shooting process, IT Staff and you will communicate via the IT Helpdesk System using the Follow-up feature. With this feature, your request information will be kept in one-place for tracking. To feedback/question/inquiry please click “Processing ticket” then “Follow Up” link and type your comment then click “Add” button.
+
+A notification mechanism is working accordingly with the following event of a ticket; email will be sent out to notify the changes/update:
+New ticket submitted successful
+Ticket has been assigned to an IT Staff to handle
+Ticket status update (New, Processing Assigned, Solved, Closed)
+IT Staff or user add follow-up
+IT Staff resolved the problem and need you to confirm to close ticket
+Note: Notification email is sent out automatically, reply to this email is not recorded on our system and will be lost, please login to the Helpdesk System to see the update
+When a ticket is solved by IT Staff, they will get confirmation from you to close it. Please login to Helpdesk System to approve the solution and close it by clicking on “Processing ticket”, give a comment and then click on the “Approve the solution” button to close it. You may have found the solution in the description box
+
+Note: Without approval to close; the ticket will be automatically closed after 1 day
+After the ticket is closed, you will receive a “Satisfaction Survey” link which allows you to rate the service quality. Please spend 1 minute to rate and give feedback for IT Team to improve for better service
+
+
+Request Approval
+When your request needs to be approved by your Manager please follow this procedure
+After you submit a ticket and are required to get approval, click the “Approvals” tab and click "Send an Approval request”, write your request and select your correct Manager in the drop down list
+
+
+Your Manager will receive your request to grant or refuse. The approval status will be shown in the “Approval” field of the ticket. Below is an example when your ticket approved
+
+After that, IT staff continues to process your request until it is closed
+Approve a Request 
+The instruction in this session is applied for Approver only
+Part of the Approval Request process, an approver will receive an email as below when their member needs an approval.
+Please click on the link to open up the ticket, click on the “Approval” tab and you will see the ticket in the image below:
+Please click on the “Status of my validation” to Grant or Refuse the request
+
+
+Select the Status and give a comment, then click update to complete it. After you grant/refuse the ticket, it will continue being processed by the IT team and your member until it’s resolved.
+Incident Report
+All staff are responsible for promptly reporting suspected or known security incidents, including an observed or suspected security weakness in TEST systems or services.
+When a security incident occurs, you must report as quickly as possible by using this Helpdesk System.
+Note: Please be noted that you must select the correct incident type in the Category field so that the system could point to the appropriate person who is responsible for security incidents.
+The steps to submit an Incident Report are the same as submitting a normal ticket. However the ticket type must be different “ Type = Incident” , see picture below:
+
+Reference
+To know more about IT Support workflow diagram, please see the diagram below:
+
+
